@@ -23,10 +23,6 @@ I'm an **AI-Focused Full Stack Developer** with expertise in **Python**, **FastA
 - **Databases**: PostgreSQL, MongoDB
 - **Cloud**: AWS, Heroku
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TanzeelUrRehman01&show_icons=true&hide_title=true)
-
 ## 📬 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/tanzeelurrehman)
